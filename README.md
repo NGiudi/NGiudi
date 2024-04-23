@@ -1,4 +1,14 @@
 ### Hi there 👋
+¡Claro! Aquí tienes una versión más personalizada y visualmente atractiva del README para tu perfil de GitHub:
+
+---
+
+<!-- Encabezado -->
+<p align="center">
+  <img src="url_de_tu_foto" alt="Foto de perfil" width="150" height="150">
+</p>
+
+<h1 align="center">¡Hola! Soy Nicolás</h1>
 
 <!--
 **NGiudi/NGiudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
