@@ -4,7 +4,7 @@
 
 ## 🤖 Sobre mí
 
-Soy un desarrollador frontend con una sólida experiencia en el desarrollo de software, iniciando mi carrera en ShipNow como desarrollador trainee/junior y ascendiendo hasta líder técnico de frontend. Durante mi tiempo en ShipNow, desempeñé un papel integral en el desarrollo de nuevas características tanto para aplicaciones web como para la aplicación móvil, liderando equipos y proyectos.
+Soy un desarrollador frontend con una sólida experiencia en el desarrollo de software, iniciando mi carrera en Shipnow como desarrollador trainee/junior y ascendiendo hasta líder técnico de frontend. Durante mi tiempo en Shipnow, desempeñé un papel integral en el desarrollo de nuevas características tanto para aplicaciones web como para la aplicación móvil, liderando equipos y proyectos.
 
 Mis habilidades incluyen HTML/CSS, JavaScript (incluyendo Node.js), React, Vue.js, SQL, Java y Flutter. Tengo experiencia práctica en la creación de interfaces web dinámicas y atractivas, con un enfoque en la calidad del código y la usabilidad del usuario.
 
